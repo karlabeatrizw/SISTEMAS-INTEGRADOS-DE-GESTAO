@@ -109,7 +109,9 @@ Com sistemas integrados, dá pra oferecer novos produtos e serviços para quem j
 
 ### Introdução
 
-O modelo mais conhecido é o de Laudon e Laudon e Turban et< que apresentam os nivéis hierárquico organizados através de um modelo de pirâmide, evidenciando os S.I (Sistemas de Informação) mais relevantes.
+O modelo mais conhecido é o de Laudon e Laudon e Turban et al que apresentam os nivéis hierárquico organizados através de um modelo de pirâmide, evidenciando os S.I (Sistemas de Informação) mais relevantes.
+
+![Figura 2.1. Pirâmide de sistemas de informação](piramide_SI.png)
 
 
 
