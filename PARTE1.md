@@ -103,6 +103,19 @@ Eles ajudam a entender o que os clientes gostam, compram e preferem, para a empr
 • TI ajuda a vender mais para os mesmos clientes:
 Com sistemas integrados, dá pra oferecer novos produtos e serviços para quem já é cliente, sem gastar muito para conquistar outros.
 
+---
+
+## FLUXO DE INFORMAÇÃO NAS ORGANIZAÇÕES
+
+### Introdução
+
+O modelo mais conhecido é o de Laudon e Laudon e Turban et< que apresentam os nivéis hierárquico organizados através de um modelo de pirâmide, evidenciando os S.I (Sistemas de Informação) mais relevantes.
+
+
+
+
+
+
 
 
 
