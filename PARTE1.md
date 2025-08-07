@@ -113,6 +113,133 @@ O modelo mais conhecido é o de Laudon e Laudon e Turban et al que apresentam os
 
 ![Figura 2.1. Pirâmide de sistemas de informação](piramide_SI.png)
 
+Na figura tabela (LAUDON; LAUDON, 1999b), estão presentes diversos exemplos de Sistemas de Informação. Neste caso, estão representados uma ampla variedade de tipos de S.I.s que são habitualmente presentes nas organizações modernas, principalmente grandes empresas. Deve-se observar que os S.I. são categorizados de acordo com a utilização que eles possuem dentro das empresas, embora possam variar entre as empresas de segmentos diferentes.
+
+---
+
+| **Nível Hierárquico**                     | **Tipo de Sistema**                                                                              | **Exemplos (por área da empresa)**                                                                                                                                                                                                                                                                                                                            |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Estratégico (Alta Direção)**            | **Sistemas de Apoio Executivo (SAEs)**                                                           | - Previsão quinquenal da tendência de vendas<br>- Plano operacional quinquenal<br>- Previsão quinquenal de orçamento<br>- Planejamento de lucros<br>- Planejamento de pessoal                                                                                                                                                                                 |
+| **Gerencial (Média Gerência)**            | **Sistemas de Informações Gerenciais (SIGs)**<br>**Sistemas de Apoio à Decisão (SADs)**          | - Gerenciamento de vendas<br>- Controle de estoque<br>- Orçamento anual<br>- Análise de investimento de recursos<br>- Análise de preços e lucratividade<br>- Análise de realocação<br>- Programação da produção<br>- Análise de custo<br>- Análise de custo de contratos<br>- Análise das vendas por região                                                   |
+| **Conhecimento (Profissionais Técnicos)** | **Sistemas dos Trabalhadores do Conhecimento (STCs)**<br>**Sistemas de Automação de Escritório** | - Estações de trabalho de engenharia<br>- Estações gráficas<br>- Estações administrativas<br>- Edição de texto<br>- Digitalização de documentos<br>- Tratamento de imagens<br>- Agendas eletrônicas                                                                                                                                                           |
+| **Operacional (Nível de Execução)**       | **Sistemas de Processamento de Transações (SPTs)**                                               | - Processamento e acompanhamento de pedidos<br>- Controle de movimentação de materiais<br>- Controle de maquinário<br>- Programação industrial<br>- Negociação de seguros<br>- Gerenciamento de caixa<br>- Contas a pagar e a receber<br>- Folha de pagamento<br>- Remuneração<br>- Treinamento e desenvolvimento<br>- Manutenção do registro de funcionários |
+
+---
+
+### 1. Nível Estratégico (Topo da pirâmide)
+
+🔧 Ferramentas usadas: SAEs (Sistemas de Apoio Executivo)
+
+👤 Quem usa: Diretores, Presidentes, Alta administração
+
+🎯 Foco: Visão de futuro, decisões de longo prazo
+
+📈 Exemplo:
+• Planejar quantos funcionários a empresa precisará em 5 anos
+
+• Decidir se vale a pena abrir uma nova filial
+
+Esses sistemas oferecem gráficos, dashboards, relatórios consolidados, baseados em dados vindos dos outros níveis.
+
+### 2. Nível Gerencial (Meio da pirâmide)
+
+🔧 Ferramentas usadas: SIGs e SADs
+
+👤 Quem usa: Gerentes, coordenadores, analistas
+
+🎯 Foco: Tomar decisões táticas (mensais, trimestrais, anuais)
+
+📊 Exemplo:
+• Comparar o desempenho de vendas por região
+
+• Verificar o custo-benefício de uma campanha de marketing
+
+• Programar a produção de acordo com a demanda
+
+SADs ajudam na análise e decisão, enquanto SIGs organizam e mostram os dados operacionais.
+
+### 3. Nível do Conhecimento (Apoio Técnico e Intelectual)
+
+🔧 Ferramentas usadas: STCs + Automação de Escritório
+
+👤 Quem usa: Engenheiros, Designers, Arquitetos, Analistas
+
+🎯 Foco: Criatividade, produtividade e qualidade do conhecimento
+
+💡 Exemplo:
+• Estações gráficas para criação de projetos
+
+• Edição e digitalização de documentos
+
+• Agendas e e-mails corporativos
+
+É a base que sustenta o fluxo de conhecimento e documentação da empresa.
+
+## Sistemas de informações transacionais
+
+---
+
+Tabela Sistemas de Informação Transacionais (STP ou SIT) com foco no que realmente importa:
+
+|                                              |                                                          |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| STP registra **transações rotineiras** (vendas, compras, pagamentos). | Você entende que esse sistema opera **no nível operacional**, na base da pirâmide da empresa.           |
+| STP é **OLTP** (Online Transaction Processing).                       | Mostra que os dados são processados **em tempo real** e refletem o estado **atual da empresa**.         |
+| É usado para **captar, processar e atualizar** dados do negócio.      | Isso mostra que ele **alimenta os outros sistemas** com dados confiáveis e atuais.                      |
+| Dados precisam ser processados com **velocidade e precisão**.         | Você entende que é vital para atender bem o cliente e **evitar erros** ou fraudes.                      |
+| STP é a **base dos Sistemas Integrados de Gestão (ERP)**.             | Tudo começa com o STP: ele **gera os dados** que os SIGs, SADs e SAEs vão usar para análise e decisões. |
+
+### Objetivos do STP:
+
+P.R.O.C.E.S.S.O. (sigla mnemônica para STP):
+
+1. Processamento rápido (OLTP)
+
+2. Registra transações
+
+3. Operacional (nível mais baixo)
+
+4. Confiável e preciso
+
+5. Evita fraudes
+
+6. Serve de base para outros sistemas(SIG, SAD, SAE)
+
+7. Suporte ao atendimento ao cliente
+
+8. Obtem vantagem competitiva
+
+---
+
+## Sistemas de Automação de Escritório (SAE)
+- **Função:** Automatizar tarefas administrativas
+- **Exemplo:** Microsoft Office (Word, Excel, Outlook, etc.)
+- **Área:** Setor administrativo
+- **Benefícios:**
+  - Reduz trabalho manual
+  - Organiza documentos e agendas
+  - Aumenta produtividade
+ 
+## Sistemas Especialistas (SE)
+- **Função:** Simular decisões de especialistas humanos
+- **Base:** Inteligência artificial e banco de regras
+- **Usos:** Diagnóstico médico, suporte técnico, engenharia
+- **Benefícios:**
+  - Preserva conhecimento de especialistas
+  - Auxilia iniciantes
+  - Dá suporte à tomada de decisão técnica
+ 
+| Característica   | **Sistema de Automação de Escritório (SAE)** | **Sistema Especialista (SE)**                       |
+| ---------------- | -------------------------------------------- | --------------------------------------------------- |
+| Área de atuação  | Escritório, setor administrativo             | Técnica, especializada (medicina, engenharia etc.)  |
+| Finalidade       | Reduzir esforço manual e rotinas repetitivas | Apoiar a decisão com base em conhecimento técnico   |
+| Exemplo          | Word, Excel, Outlook, PowerPoint             | Diagnóstico médico por IA, sistemas de recomendação |
+| Quem usa         | Funcionários em geral                        | Profissionais técnicos ou operadores iniciantes     |
+| Base tecnológica | Softwares de produtividade pessoal           | Inteligência artificial + base de conhecimento      |
+
+
+
+
 
 
 
