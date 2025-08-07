@@ -175,9 +175,9 @@ SADs ajudam na análise e decisão, enquanto SIGs organizam e mostram os dados o
 
 É a base que sustenta o fluxo de conhecimento e documentação da empresa.
 
-## Sistemas de informações transacionais
-
 ---
+
+## Sistemas de informações transacionais
 
 Tabela Sistemas de Informação Transacionais (STP ou SIT) com foco no que realmente importa:
 
@@ -237,7 +237,83 @@ P.R.O.C.E.S.S.O. (sigla mnemônica para STP):
 | Quem usa         | Funcionários em geral                        | Profissionais técnicos ou operadores iniciantes     |
 | Base tecnológica | Softwares de produtividade pessoal           | Inteligência artificial + base de conhecimento      |
 
+---
 
+## Sistemas de Informações Gerenciais (SIG / MIS)
+
+> SIG (ou MIS - Management Information Systems) são sistemas voltados ao suporte gerencial, especialmente para gestores de **nível tático**. São usados para facilitar a **tomada de decisões**, com dados integrados, consolidados e atualizados.
+
+### Objetivos do SIG
+
+- Apoiar decisões táticas (planejamento e controle)
+- Consolidação de dados de diversos setores
+- Visualização de desempenho organizacional
+- Agilidade na análise de informações
+
+## Características Principais
+
+| Característica                         | Descrição                                                                 |
+|---------------------------------------|--------------------------------------------------------------------------|
+| 🎯 Foco                               | Nível tático (gerentes)                                                  |
+| 📊 Integração                         | Reúne dados de diversos setores                                          |
+| ⏱️ Atualização                        | Quase em tempo real                                                      |
+| 📈 Visualização                       | Dashboards com múltiplas visões (diária, mensal, etc.)                   |
+| 💾 Base de dados única                | Facilita manutenção e análise de grandes volumes                         |
+| 🧩 Suporte à decisão semi-estruturada | Auxilia decisões que precisam de dados e julgamento humano               |
+
+### Papel nas Organizações
+
+- Acompanhamento de metas e indicadores de desempenho
+- Suporte ao planejamento estratégico
+- Integração entre áreas da empresa
+- Centralização e padronização das informações
+
+  ---
+
+## Sistemas de Apoio à Decisão (SAD)
+
+> **Baseado em:** Turban et al (2011), Stair & Reynolds (2012)
+
+### O que é um SAD?
+
+Sistemas de Apoio à Decisão (SAD) são ferramentas que auxiliam gestores a tomar decisões baseadas em dados, reduzindo a dependência de julgamentos pessoais ou intuições.
+
+Segundo Turban et al (2011), o objetivo principal de um SAD é **reduzir o gap entre a performance real e a performance desejada das organizações**, contribuindo diretamente para a estratégia empresarial.
+
+---
+
+### SAD e Gestão
+
+A gestão é o processo de alcançar objetivos organizacionais utilizando os recursos disponíveis. Esses recursos são considerados **entradas (inputs)** e os resultados gerados são as **saídas (outputs)**. A eficiência da gestão pode ser avaliada pela razão entre saídas e entradas — ou seja, pela produtividade.
+
+A tomada de decisão é central nesse processo, e os SADs apoiam exatamente esse ponto, permitindo que o gestor escolha a melhor alternativa entre várias opções.
+
+---
+
+### Benefícios e Capacidades dos SADs
+
+Os SADs oferecem suporte de várias formas:
+
+-  **Velocidade de processamento**
+-  **Melhoria na comunicação e colaboração**
+-  **Maior produtividade em grupo**
+-  **Apoio à superação dos limites cognitivos humanos**
+-  **Gestão de grandes volumes de dados**
+-  **Integração com data warehouses**
+-  **Disponibilidade via Web (acesso remoto)**
+-  **Uso de dashboards altamente visuais e customizáveis**
+-  **Alto nível de sigilo nas informações**
+-  **Suporte ágil à tomada de decisão**
+
+---
+
+### Usuários-alvo
+
+Os SADs são voltados principalmente para **gestores estratégicos e executivos**, oferecendo informações consolidadas e visuais para apoiar decisões de alto impacto.
+
+Essas informações são altamente sigilosas e, muitas vezes, refletem dados operacionais em tempo real, permitindo ações rápidas e bem embasadas.
+
+---
 
 
 
