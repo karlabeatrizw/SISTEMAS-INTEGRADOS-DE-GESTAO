@@ -315,6 +315,25 @@ Essas informações são altamente sigilosas e, muitas vezes, refletem dados ope
 
 ---
 
+# SOLUÇÕES INTEGRADAS DE TI: BUSINESS INTELLIGENCE
+
+---
+
+## Conceitos gerais
+
+Muitos dados das empresas são gerados nas transações de negócios. Outra parte de dados pode ser obtida de fontes externas, sendo que tambem existem aqueles dados obtidos durante toda a existência da organização. Esses dados no caso de grandes empresas, geralmente são organizados em repositórios denominados Data Warehouse e Data Mart. Para lidar com grandes volumes de dados, as organizações utilizam ferramentas que permitem analisar, consolidar e acessar essas informações. O objetivo é identificar padrões, relacionamentos e gerar insights que apoiem a tomada de decisões estratégicas e mais assertivas nos negócios compreendem os Sistemas do tipo Business Intelligence como sendo as aplicações e tecnologias destinadas à consolidação, a análise e fornecimento de acessos a volumes muito grandes de dados para auxiliarem os usuários a tomarem melhores decisões estratégicas e de negócios.
+
+---
+
+## O processo de tomada de decisão
+
+Com o avanço das TICs (Tecnologias de Informação e Comunicação) e a popularização da Internet, o processo de decisão nas empresas se tornou mais complexo. Antes, a falta de informação era o problema; hoje, é o excesso de dados. Isso exige ferramentas capazes de coletar, limpar, armazenar e processar grandes volumes de dados, garantindo confiabilidade e agilidade nas decisões. A adaptação dos processos e das tecnologias tornou-se essencial para manter a competitividade no cenário atual.
+
+---
+
+## Hierarquia das Decisões
+
+
 
 
 
