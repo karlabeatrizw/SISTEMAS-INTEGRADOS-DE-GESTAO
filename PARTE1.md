@@ -433,6 +433,16 @@ Essas informações apoiam todos os tipos de decisões, planejamento estratégic
 
 Parte desses benefícios é intangível, sendo percebida ao longo do tempo conforme a organização amadurece no uso do BI.
 
+## Níveis e tipos de sistemas 
+
+| **Nível Organizacional** | **Foco Principal**                                                  | **Exemplo de Sistema**                            | **Relação com BI**                                                         |
+| ------------------------ | ------------------------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Operacional**          | Execução de tarefas do dia a dia, registro de transações            | **TPS** – Sistemas de Processamento de Transações | BI não atua diretamente aqui, mas usa dados desse nível como matéria-prima |
+| **Tático (Gerencial)**   | Acompanhamento e controle de áreas/setores, relatórios consolidados | **MIS** – Sistemas de Informação Gerencial        | BI atua fortemente aqui para apoiar supervisores e gerentes                |
+| **Estratégico**          | Decisões de longo prazo, visão global e futura da empresa           | **EIS / SAE** – Sistema de Apoio ao Executivo     | BI atua aqui com visão consolidada e indicadores estratégicos              |
+
+
+
 ---
 
 # Soluções Integradas de TI: Customer Relationship Management
