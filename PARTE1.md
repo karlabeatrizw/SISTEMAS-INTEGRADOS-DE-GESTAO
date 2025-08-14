@@ -333,10 +333,34 @@ Com o avanço das TICs (Tecnologias de Informação e Comunicação) e a popular
 
 ## Hierarquia das Decisões
 
-Decisões programadas é aquela que pode ser tomada aplicando alguma regra< procedimento ou método quantitativo. Essas são as decisões fáceis de serem resolvidas.
-Por outro lado existem as decisões programadas, que se referem a situações inesperadas, incomuns, podendo ser de díficil  quantificação. Cada uma destas decisões apresenta características únicas, e regras ou procedimentos padronizados podem ou não ser aplicáveis (STAIR, REYNOLDS, 2012, p.369). 
-Além disso, as decisões podem ser estruturadas, semiestruturadas ou não estruturadas. Essas decisões são consideradas mais fáceis, rotineiras, repetitivas, que existem ou demandam maior nível de complexoidade. Os SIs deste tipo geralmente são conhecidos como sendo Sistema de Apoio ao Executivo (SAE) ou Executive Information Systems (EIS). 
-Gerentes de nível médio (nível tático) lidam principalmente com **decisões semiestruturadas**, geralmente com impacto de **médio prazo** e cenários mais **estruturados**. Exemplos incluem: elaboração de plano de marketing, desenvolvimento de orçamento departamental e criação de novo site corporativo. Essas decisões podem ser apoiadas por **Sistemas de Informação Gerencial (SIG/MIS)** e **Sistemas de Apoio à Decisão (SAD/DSS)**.
+As decisões nas organizações podem ser classificadas quanto à **programação**, **estruturação** e **grau de incerteza**.
+
+### 1. Quanto à Programação
+- **Programadas**: Baseadas em regras, procedimentos ou métodos quantitativos. Fáceis de resolver.
+- **Não Programadas**: Situações inesperadas, incomuns e de difícil quantificação.
+
+### 2. Quanto à Estruturação
+### a) Decisões Estruturadas
+- Características: Rotineiras, repetitivas, de baixa complexidade.
+- Nível: Operacional (curto prazo).
+- Exemplos: Oferta de crédito, reposição de estoque, autorização de horas extras.
+- Sistemas de apoio: **MIS** (Management Information Systems).
+- Grau de incerteza: **Baixo**.
+
+### b) Decisões Não Estruturadas
+- Características: Novas, inusitadas, importantes, não rotineiras.
+- Nível: Estratégico (longo prazo).
+- Exemplos: Entrada/saída de mercados, aprovação de orçamento, definição de metas de longo prazo.
+- Sistemas de apoio: **EIS** (Executive Information Systems).
+- Grau de incerteza: **Alto**.
+
+### c) Decisões Semiestruturadas
+- Características: Combinação de aspectos estruturados e não estruturados.
+- Nível: Tático (médio prazo).
+- Exemplos: Plano de marketing, orçamento departamental, criação de novo site corporativo.
+- Sistemas de apoio: **MIS** e **DSS** (Decision Support Systems).
+- Grau de incerteza: **Médio**.
+
 
 ---
 
