@@ -368,9 +368,50 @@ Principais usos do data mining:
 
 ## O processo de BI
 
+O processo de Business Intelligence (BI) começa com a coleta de dados de diversas fontes, internas ou externas à organização (operacionais, de clientes, manufatura e históricos).
+Esses dados são armazenados em Data Warehouse ou Data Mart e, em seguida, manipulados e analisados com ferramentas de mineração e análise para encontrar padrões e significados.
+Os resultados são apresentados em dashboards, permitindo que gestores tomem decisões mais assertivas.
 
+1. **Pré-requisitos para um processo de BI eficaz:**
 
+2. **Disponibilidade de dados transacionais (histórico de interações com clientes).**
 
+3. **Saneamento de dados (limpeza e padronização).**
+
+4. **Acesso rápido aos dados.**
+
+Definição clara do que será extraído dos dados.
+
+O objetivo final do BI é transformar dados em informação, informação em decisão, e decisão em ação.
+
+---
+
+## Benefícios do BI
+
+O principal benefício do Business Intelligence (BI) é a capacidade de fornecer informações precisas no momento certo, incluindo visão em tempo real da performance da empresa.
+Essas informações apoiam todos os tipos de decisões, planejamento estratégico e até a sobrevivência organizacional.
+
+1. Principais benefícios do BI:
+
+2. Relatórios mais rápidos e precisos.
+
+3. Melhor qualidade nas decisões (mais assertivas).
+
+4. Melhoria no atendimento ao cliente.
+
+5. Aumento da receita.
+
+6. Aumento da produtividade.
+
+7. Melhor compreensão das tendências de mercado.
+
+8. Maior agilidade para responder a mudanças no mercado.
+
+Parte desses benefícios é intangível, sendo percebida ao longo do tempo conforme a organização amadurece no uso do BI.
+
+---
+
+# Soluções Integradas de TI: Customer Relationship Management
 
 
 
