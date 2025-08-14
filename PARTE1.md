@@ -333,6 +333,41 @@ Com o avanço das TICs (Tecnologias de Informação e Comunicação) e a popular
 
 ## Hierarquia das Decisões
 
+Decisões programadas é aquela que pode ser tomada aplicando alguma regra< procedimento ou método quantitativo. Essas são as decisões fáceis de serem resolvidas.
+Por outro lado existem as decisões programadas, que se referem a situações inesperadas, incomuns, podendo ser de díficil  quantificação. Cada uma destas decisões apresenta características únicas, e regras ou procedimentos padronizados podem ou não ser aplicáveis (STAIR, REYNOLDS, 2012, p.369). 
+Além disso, as decisões podem ser estruturadas, semiestruturadas ou não estruturadas. Essas decisões são consideradas mais fáceis, rotineiras, repetitivas, que existem ou demandam maior nível de complexoidade. Os SIs deste tipo geralmente são conhecidos como sendo Sistema de Apoio ao Executivo (SAE) ou Executive Information Systems (EIS). 
+Gerentes de nível médio (nível tático) lidam principalmente com **decisões semiestruturadas**, geralmente com impacto de **médio prazo** e cenários mais **estruturados**. Exemplos incluem: elaboração de plano de marketing, desenvolvimento de orçamento departamental e criação de novo site corporativo. Essas decisões podem ser apoiadas por **Sistemas de Informação Gerencial (SIG/MIS)** e **Sistemas de Apoio à Decisão (SAD/DSS)**.
+
+---
+
+## Arquitetura de um BI
+
+Um Sistema de Inteligência de Negócios (BI) é formado por quatro componentes principais:
+
+1. Data Warehouse – grande banco de dados que armazena as informações da empresa.
+
+2. Business Analytics – ferramentas para manipulação, mineração e análise de dados.
+
+3. Business Performance Management (BPM) – gestão do desempenho, monitorando indicadores e resultados.
+
+4. User Interface – interface visual (como dashboards) que apresenta gráficos e tabelas com indicadores-chave.
+
+Ferramentas comuns incluem: consultas e relatórios, análise multidimensional (OLAP) e data mining.
+
+- **Data Mart: versão reduzida e específica do Data Warehouse, focada em um departamento.**
+
+- **Data Mining: processo de descobrir padrões, tendências e comportamentos a partir de grandes volumes de dados.**
+
+Principais usos do data mining:
+
+1. Prever tendências e comportamentos.
+
+2. Identificar padrões desconhecidos.
+
+---
+
+## O processo de BI
+
 
 
 
