@@ -483,6 +483,13 @@ f) Necessidade de diferenciação de produtos, cada vez mais massificados.
 
 Adicionalmente, as empresas enfrentam dificuldades em entender as motivações de compra e os motivos de abandono dos clientes, além de lidar com fatores legais, como o Código de Defesa do Consumidor.
 
+---
+
+## ÁREAS DE APLICAÇÃO DO CRM
+
+O CRM ajuda as empresas em marketing, vendas e serviços ao cliente. No marketing, permite gerenciar campanhas em vários canais, qualificar leads e rastrear ações. Nos serviços, aumenta a eficiência de call centers e help desks, incluindo autoatendimento online. Nas vendas, auxilia na produtividade da equipe, focando em clientes mais lucrativos e fornecendo informações de contato, produtos e cotações.
+
+---
 
 
 
