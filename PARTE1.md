@@ -445,14 +445,43 @@ Parte desses benefícios é intangível, sendo percebida ao longo do tempo confo
 
 ---
 
-# SOLUÇÕES INTEGRADAS DE TI: Customer Relationship Management
+# SOLUÇÕES INTEGRADAS DE TI: Customer Relationship Management (CRM)
 
 ---
 
 ## INTRODUÇÃO
 
-O aumento da competividade entre as organizações foi amplamente deciminada por meio da Tecnologia da Informação e Comunicação. Por sua vez essa também trouxe a adoção de Sistemas de Gestão de Relacionamento com o Cliente adquiriu maior relevância dentro das estratégias organizacionais.
+O aumento da competividade entre as organizações foi amplamente deciminada por meio da Tecnologia da Informação e Comunicação. Por sua vez essa também trouxe a adoção de Sistemas de Gestão de Relacionamento com o Cliente (CRM) adquiriu maior relevância dentro das estratégias organizacionais.
 
+---
+
+## CONCEITOS GERAIS
+
+A preocupação com o cliente sempre foi uma reaalidade organizacional. Entretanto foi com o advento da TI que os Sistemas de informação do tipo CRM se tornassem mais críticos para o sucesso dos negócios atuais.
+Rainer e Cegielski (2011, p.307) afirmam que um CRM representa uma estratégia organizacional focada e dirigida para o cliente, no qual a organização se concentra em satisfazer os clientes, avaliando suas solicitações por produtos e serviços, para então fornecer-lhes serviços responsivos e de alta qualidade.
+o relacionamento com o cliente representa um dos ativos mais valiosos para as empresas.
+
+---
+
+##  O SISTEMA DE GESTÃO DO RELACIONAMENTO COM O CLIENTE (CRM)
+
+Atualmente, as empresas precisam de sistemas automatizados para **monitorar clientes** e usam o **marketing** para **construir relações de longo prazo** com eles.
+Dessa forma, definem a administração de marketing (KOTLER; KELLER, 2012, p. 3) como “[...] a arte e a ciência de selecionar mercados-alvo e captar, manter e fidelizar clientes por meio da criação, entrega e comunicação de um valor superior para o cliente.”. 
+justamente para melhorarem a captação, manutenção e fidelização de clientes, as empresas passaram a adotar os Sistemas CRM. Entre as justificativas elencadas, citam-se Laudon e Laudon (2011, p.285-288) e Rainer e Cegielski  (2011, p.306-308):
+
+a) Consolidação das informações existentes dos clientes na empresa;
+
+b) Aumento da concorrência;
+
+c) Melhora no atendimento ao cliente, buscando criar diferenciação competitiva;
+
+d) Identificação dos clientes lucrativos e não lucrativos das organizações;
+
+e) Identificação das oportunidades de venda cruzada de produtos e serviços;
+
+f) Necessidade de diferenciação de produtos, cada vez mais massificados.
+
+Adicionalmente, as empresas enfrentam dificuldades em entender as motivações de compra e os motivos de abandono dos clientes, além de lidar com fatores legais, como o Código de Defesa do Consumidor.
 
 
 
