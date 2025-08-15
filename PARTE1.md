@@ -499,7 +499,7 @@ CRM Analítico:
 
 - Analisa dados gerados pelo CRM Operacional para melhorar a performance.
 
--Baseia-se em data warehouses, mineração de dados e técnicas de análise.
+- Baseia-se em data warehouses, mineração de dados e técnicas de análise.
 
 - Avalia comportamento e percepções do cliente, criando modelos estatísticos de aquisição, retenção e perda.
 
@@ -526,6 +526,83 @@ CRM Social:
 - Coleta informações de redes sociais para entender perfil, preferências e sentimentos dos clientes, ampliando o conhecimento do mercado e auxiliando decisões estratégicas.
 
 Resumo geral: O CRM combina análise de dados, automação operacional e integração colaborativa/social para melhorar o relacionamento com clientes, otimizar processos e apoiar decisões estratégicas.
+
+---
+
+## FATORES CRÍTICOS DE SUCESSO DO CRM
+
+Um FCS é uma área essencial cujo bom desempenho garante o sucesso competitivo da empresa e a efetiva implementação de uma estratégia de CRM. Eles envolvem pessoas, tecnologia e processos:
+
+1️⃣ Pessoas
+
+- Suporte dos altos executivos e do CEO
+
+- Cultura organizacional
+
+- Gestão de recursos humanos e do conhecimento
+
+- Estratégia do CRM
+
+- Integração entre equipes
+
+- Orientação ao cliente
+
+- Empregados experientes e qualificados
+
+2️⃣ Tecnologia
+
+- Infraestrutura organizacional
+
+- Gestão do conhecimento
+
+- Qualidade da informação e do sistema
+
+- Qualidade dos serviços
+
+- Orientação ao cliente
+
+- Prontidão tecnológica
+
+3️⃣ Processos
+
+- Cultura organizacional
+
+- Gestão de recursos humanos
+
+- Estratégia e processos de CRM
+
+- Qualidade do serviço
+
+- Integração
+
+- Orientação ao cliente
+
+---
+
+## PROBLEMAS DE IMPLATAÇÃO DO CRM
+
+Principais dificuldades que podem afetar a implantação (Farhan, Abed e Ellatif, 2018):
+
+- Falta de apoio da **alta administração** e **visão estratégica** clara
+- **Gestão de mudanças** inadequada e cultura organizacional desfavorável
+- Recursos humanos **com baixa habilidade** e programas de **treinamento ruins**
+- Falhas na **reengenharia de processos** e foco excessivo apenas na tecnologia
+- **Custo inicial** elevado e planejamento insuficiente
+- Dificuldades na **mineração de dados e integração** de sistemas
+- Falta de alinhamento do CRM à **estratégia da organização**
+- Problemas de **segurança, avaliação, envolvimento da equipe**
+- **Dados insuficientes ou de baixa qualidade**
+- Falta de foco no **retorno sobre investimento** e na **quantificação do valor do cliente**
+
+## Benefícios do CRM
+Principais vantagens do uso do CRM (Laudon & Laudon, 2011; Rainer & Cegielski, 2011):
+
+- **Aumento da satisfação** dos clientes
+- **Redução de custos** de marketing direto
+- Marketing **mais efetivo**
+- Redução do **custo de aquisição e retenção** de clientes
+- **Criação de valor** para clientes e empresas
+- Redução da **rotatividade de clientes**, com vendas, serviços e marketing mais alinhados às necessidades
 
 
 
