@@ -445,7 +445,15 @@ Parte desses benefícios é intangível, sendo percebida ao longo do tempo confo
 
 ---
 
-# Soluções Integradas de TI: Customer Relationship Management
+# SOLUÇÕES INTEGRADAS DE TI: Customer Relationship Management
+
+---
+
+## INTRODUÇÃO
+
+O aumento da competividade entre as organizações foi amplamente deciminada por meio da Tecnologia da Informação e Comunicação. Por sua vez essa também trouxe a adoção de Sistemas de Gestão de Relacionamento com o Cliente adquiriu maior relevância dentro das estratégias organizacionais.
+
+
 
 
 
