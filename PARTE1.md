@@ -491,7 +491,41 @@ O CRM ajuda as empresas em marketing, vendas e serviços ao cliente. No marketin
 
 ---
 
+## DIMENSÕES DO CRM
 
+O CRM possui diferentes dimensões, destacando-se:
+
+CRM Analítico:
+
+- Analisa dados gerados pelo CRM Operacional para melhorar a performance.
+
+-Baseia-se em data warehouses, mineração de dados e técnicas de análise.
+
+- Avalia comportamento e percepções do cliente, criando modelos estatísticos de aquisição, retenção e perda.
+
+- Fornece inteligência de negócios para identificar tendências de mercado e apoiar decisões estratégicas.
+
+CRM Operacional:
+
+- Suporta processos de linha de frente como vendas, marketing e serviços.
+
+- Inclui sistemas de atendimento ao cliente (SAC), Sales Force Automation (SFA), automação de marketing e gestão de campanhas.
+
+- Oferece recursos de contato direto com clientes: pesquisas, comparações, informações técnicas, serviços customizados, FAQs, e-mail automático e programas de fidelidade.
+
+CRM Colaborativo:
+
+- Foca na integração de todos os pontos de contato do cliente com a empresa.
+
+- Compartilha informações entre equipes e parceiros da cadeia de suprimentos, melhorando a comunicação e a tomada de decisão.
+
+CRM Social:
+
+- Estratégia baseada em interações online e offline.
+
+- Coleta informações de redes sociais para entender perfil, preferências e sentimentos dos clientes, ampliando o conhecimento do mercado e auxiliando decisões estratégicas.
+
+Resumo geral: O CRM combina análise de dados, automação operacional e integração colaborativa/social para melhorar o relacionamento com clientes, otimizar processos e apoiar decisões estratégicas.
 
 
 
