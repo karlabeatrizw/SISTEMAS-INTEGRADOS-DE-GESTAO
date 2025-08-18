@@ -630,7 +630,7 @@ Sistemas de controle de estoque;
 
 ## SISTEMAS DE PLANEJAMENTO DE RECURSOS EMPRESARIAIS
 
-- O SI do tipo ERP aplia a capacidadde dos tomadores de decisões
+- O SI do tipo ERP amplia a capacidadde dos tomadores de decisões
 - Utilizados para integrar os processos de negócios dentro das diversas áreas organizacionais, como manufatura, produção, finanças, contabilidade, vendas, marketing e recursos humanos, dentro um **único software integrado**.
 - **Único Repósitorio Integrado** disponíveis para todos os demais SIs existentes na empresa.
 
@@ -655,6 +655,40 @@ Deve-se observar que a implementação de um Sistema ERP envolve inúmeros desaf
 ---
 
 ## BENEFÍCIOS DOS SIS DO TIPO ERP
+
+Cada decisão empresarial possuem caracteristicas distintas. Os tipos de SItendem a apresentar caracteristicas particulares, no caso da implementação de um SI do tipo ERP Ociepa-Kubicka (2017) argumenta que a base para a implementação sem problemas é o engajamento dos funcionários. Ademis, a abordagem gerencial moderna, familiarizando-se rapidamente com o software e utilizando-o efetivamente no cotidiano das operações da empresa. Contudo, o mesmo argumenta que a maior dificuldade no uso de um SI do tipo ERP é o financeiro, principalmente entre medias e pequenas empresas.
+
+Entre os benefícios que podem ser obtidos com o ERP podem ser citados:
+
+- Melhoria nos processos de trabalho; 
+
+- Melhoria na gestão de pedidos;
+
+- Redução de custos;
+
+- Melhoria do atendimento ao cliente;
+
+- Integração de informações entre os departamentos da empresa;
+
+- Melhoria na eficiência dos processos de aquisição;
+
+- Melhoria dos processos de distribuição ou produção;
+
+- Melhoria da situação econômica e financeira;
+
+- Melhoria das habilidades da equipe;
+
+- Maior segurança de dados;
+
+- Modernização da infraestrutura da tecnologia;
+
+- Acesso aperfeiçoado aos dados para a tomada de decisão;
+
+- Eliminação de sistemas ineficientes ou obsoletos;
+
+---
+
+## DESVANTAGENS DO SI DO TIPO ERP
 
 
 
