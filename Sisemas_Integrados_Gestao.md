@@ -628,6 +628,34 @@ Sistemas de controle de estoque;
 
 ---
 
+## SISTEMAS DE PLANEJAMENTO DE RECURSOS EMPRESARIAIS
+
+- O SI do tipo ERP aplia a capacidadde dos tomadores de decisões
+- Utilizados para integrar os processos de negócios dentro das diversas áreas organizacionais, como manufatura, produção, finanças, contabilidade, vendas, marketing e recursos humanos, dentro um **único software integrado**.
+- **Único Repósitorio Integrado** disponíveis para todos os demais SIs existentes na empresa.
+
+---
+
+## SISTEMA DE PLANEJAMENTO DE RECURSOS ORGANIZACIONAIS
+
+Pelo fato dos tomadores de decisões estarem sobre pressão, acabam sacrificando a qualidade da decisão por precisarem tomar decisões rápidas.
+Com a era digital os tomadores de decisão não estão aproveitando ao máximo o que esta disponível. Isso se deve pela: a) incapacidade de reunirem informações suficientes; b) dificuldade em compartilhar tais informações, o que faz com que não consigam escolher as pessoas certas para o pocesso de decisão.
+
+Decorente disso tais fatores - que prejudicam a eficiência dos processos - foram identificados:
+
+1. Mais decisões estão sendo tomadas em menos tempo;
+2. Os tomadores de decisão estão perdendo oportunidades;
+3. Os tomadores de decisão estão sentindo que estão perdendo a corrida;
+4. Muitas barreiras são humanas;
+5. As fontes de informações estão mudando constantemente;
+6. A amnésia de tomada de decisões está desenfreada.
+
+Deve-se observar que a implementação de um Sistema ERP envolve inúmeros desafios, não apenas técnicos e financeiros, mas também culturais e de gestão organizacional.
+
+---
+
+## BENEFÍCIOS DOS SIS DO TIPO ERP
 
 
 
+---
