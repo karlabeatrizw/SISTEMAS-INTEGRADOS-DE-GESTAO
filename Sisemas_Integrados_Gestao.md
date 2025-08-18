@@ -594,6 +594,8 @@ Principais dificuldades que podem afetar a implantação (Farhan, Abed e Ellatif
 - **Dados insuficientes ou de baixa qualidade**
 - Falta de foco no **retorno sobre investimento** e na **quantificação do valor do cliente**
 
+---
+
 ## Benefícios do CRM
 Principais vantagens do uso do CRM (Laudon & Laudon, 2011; Rainer & Cegielski, 2011):
 
@@ -604,7 +606,27 @@ Principais vantagens do uso do CRM (Laudon & Laudon, 2011; Rainer & Cegielski, 2
 - **Criação de valor** para clientes e empresas
 - Redução da **rotatividade de clientes**, com vendas, serviços e marketing mais alinhados às necessidades
 
+  ---
 
+# Enterprise Resource Planning (ERP)
+
+---
+
+## INTRODUÇÃO
+
+O advento e a disseminação do uso de Sistemas de Planejamento de Recursos Empresariais trouxe maior capacidade competitiva. Ademais, possibilitou um maior alinhamento entre estrátegia organizacional e as atividades associadas à Tecnologia da informação.
+A evolução dos sistemas de informação de apoio à gestão, voltados para o planejamento de recursos, pode ser compreendida em etapas básicas, conforme Ociepa-Kubicka (2017):
+Sistemas de controle de estoque;
+
+1. Planejamento de Requisitos de Material (MRP);
+
+2. Sistemas de Planejamento de Recursos de Manufatura (MRP II);
+
+3. Sistemas de Planejamento de Recursos Empresariais (ERP);
+
+4. Enterprise Resource Planning (ERP II) permitindo a interconexão da empresa.
+
+---
 
 
 
