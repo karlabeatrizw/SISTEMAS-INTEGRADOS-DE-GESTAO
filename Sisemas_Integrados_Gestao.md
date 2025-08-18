@@ -690,6 +690,26 @@ Entre os benefícios que podem ser obtidos com o ERP podem ser citados:
 
 ## DESVANTAGENS DO SI DO TIPO ERP
 
+- Elevado custo de aquisição e adequação às empresas;
 
+- Necessidade de treinamento para os envolvidos com o seu uso;
+
+- Complexidade na escolha de um ERP mais adequado à empresa;
+
+- Complexidade na implantação;
+
+- Dependência da empresa ao fornecedor do SI ERP escolhido, dificultando uma troca futura possível;
+
+- Revisão e/ou adequação dos processos organizacionais;
+
+- Tempo necessário para a implantação do ERP na organização;
+
+- Risco de falha na implantação.
+
+---
+
+## O SISTEMA ERP
+
+O Sistema ERP pode tornar mais eficiente a gestão dos processos organizacionais, melhorando os resultados organizacionais, embora exija um certo tempo para o amadurecimento e plena utilização dos recursos disponibilizados pela nova tecnologia de sistemas integrados de gestão. O sucesso da implantação de um SI ERP depende da combinação de vários fatores, que afetam em maior ou menor grau, os resultados que podem ser obtidos, que são os chamados Fatores Críticos de Sucesso (FCS).
 
 ---
