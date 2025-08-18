@@ -713,3 +713,43 @@ Entre os benefícios que podem ser obtidos com o ERP podem ser citados:
 O Sistema ERP pode tornar mais eficiente a gestão dos processos organizacionais, melhorando os resultados organizacionais, embora exija um certo tempo para o amadurecimento e plena utilização dos recursos disponibilizados pela nova tecnologia de sistemas integrados de gestão. O sucesso da implantação de um SI ERP depende da combinação de vários fatores, que afetam em maior ou menor grau, os resultados que podem ser obtidos, que são os chamados Fatores Críticos de Sucesso (FCS).
 
 ---
+
+## FATORES CRÍTICOS DE SUCESSO DA IMPLEMENTAÇÃO DO ERP
+
+| Fatores Críticos de Sucesso                              | % Ocorrência |
+|----------------------------------------------------------|--------------|
+| Apoio e comprometimento da gestão                        | 100.00       |
+| Comunicação interdepartamental                           | 84.21        |
+| Reengenharia de processos de negócios (BPR)              | 78.95        |
+| Composição da equipe do projeto/habilidades da equipe    | 78.95        |
+| Cooperação interdepartamental                            | 73.68        |
+| Gestão do Projeto                                        | 68.42        |
+| Monitoramento e avaliação do Progresso                   | 68.42        |
+| Metas e objetivos claros                                 | 68.42        |
+| Plano/cronograma formalizado do projeto                  | 63.16        |
+| Experiente Líder de Gestão de Projetos                   | 63.16        |
+| Metodologia formal-estratégia de implementação de ERP    | 63.16        |
+| Treinamento em software                                  | 52.63        |
+| Definição cuidadosa dos Requisitos de Sistema e de Informações | 52.63 |
+| Seleção adequada de software ERP                         | 52.63        |
+| Papel do campeão do projeto                              | 47.37        |
+| Recursos adequados                                       | 42.11        |
+| Redução do risco e dos problemas do projeto              | 42.11        |
+| Educação em novos processos de negócios                  | 42.11        |
+| Mudança cultural/questões políticas                      | 57.89        |
+| Uso adequado de consultores                              | 57.89        |
+| Sistemas legados                                         | 36.84        |
+| Customização do software                                 | 36.84        |
+| Comitê de direção                                        | 36.84        |
+| Configuração do software                                 | 31.58        |
+| Boa gestão do escopo do projeto                          | 26.32        |
+| Tecnologia apropriada                                    | 26.32        |
+| Suporte do fornecedor                                    | 26.32        |
+| Expectativas de gerenciamento                            | 21.05        |
+| Ferramenta do fornecedor                                 | 21.05        |
+| Gestão dos Consultores                                   | 21.05        |
+| Confiança entre parceiros                                | 15.79        |
+| Tomadores de decisão empoderados                         | 15.79        |
+| Análise e conversão de dados                             | 15.79        |
+
+
