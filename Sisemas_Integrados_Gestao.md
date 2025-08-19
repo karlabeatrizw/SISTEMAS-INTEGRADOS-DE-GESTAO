@@ -777,4 +777,20 @@ Assim, o SCM é um tipo de sistema de informação interorganizacional que rduz 
 
 ---
 
+## O SISTEMA DE GESTÃO DA CADEIA DE SUPRIMENTOS (SCM)
+
+Agora que ja sabemos que a **Cadeia de Suprimentos** se refere a ligação entre fornecedores, produção e clientes, vamos entender sobre os seus 3 **segmentos principais**:
+
+- **UPSTREAM (montante)**: onde ocorre o fornecimento ou aquisição de suprimentos externos. Inclui os fornecedores da empresa, os fornecedores dos fornecedores e os processos para gerenciar o relacionamento com eles;
+- **INTERNAL**: processos dentro da empresa (produção, montagem, estoques).
+- **DOWNSTREAM (justante)**: distribuição e entrega ao cliente final.
+- 
+Origem: surge nos anos 1960 com foco em logística (distribuição física, transporte, custos).
+
+Evolução: deixou de ser só logística → hoje integra fornecedores, produtores, distribuidores, atacado, varejo e clientes.
+
+Logística (segundo Gartner e CSCMP) é parte do SCM e cuida do planejamento, transporte, armazenamento e fluxo de bens/informações, do ponto de origem até o consumo.
+
+---
+
 
