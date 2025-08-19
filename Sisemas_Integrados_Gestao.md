@@ -769,6 +769,12 @@ Por isso, o uso dos Sistemas de Gestão da Cadeia de Suprimentos (SCM) cresceu, 
 
 ## SISTEMA DE GESTÃO DA CADEIA DE SUPRIMENTOS
 
-A cadeia de suprimentos se refere a todo caminho que o produto faz (fornecedor -> fábrica -> transporte -> loja -> cliente), o SCM tem o papel de integrar todas essas etapas para que tudo seja mais eficiente.
+A cadeia de suprimentos se refere a todo caminho que o produto faz (fornecedor -> fábrica -> transporte -> loja -> cliente), o SCM tem o papel de integrar todas essas etapas para que tudo seja mais eficiente, garantindo fluxo eficiente de informações, produtos e dinheiro.
 
-O SCM conecta todas as áreas, fornecendo dados em tempo real, com objetivo de mostrar onde cada lote de determinado produto esta, quando haverá maior demanda, evitando, assim, o disperdício
+O SCM conecta todas as áreas, fornecendo dados em tempo real, com objetivo de mostrar onde cada lote de determinado produto esta, quando haverá maior demanda, o que evita o disperdício e permite a ocorrência de um fluxo bidirecional de informações e de bens.
+
+Assim, o SCM é um tipo de sistema de informação interorganizacional que rduz problemas ou atritos, ao longo da cadeia de suprimentos.
+
+---
+
+
