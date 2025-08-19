@@ -793,4 +793,67 @@ Logística (segundo Gartner e CSCMP) é parte do SCM e cuida do planejamento, tr
 
 ---
 
+## O SISTEMA SCM
+
+O  sistema SCM possibilita ao pareciros executarem diversas tarefas como:
+
+- Reduzir o custo das transações rotineiras de negócios;
+- Aumentar a qualidade do fluxo de informações pela redução ou eliminação de erros;
+- Comprimir o tempo de ciclo envolvido no cumprimento das transações comerciais;
+- Eliminar o processamento de papel e suas ineficiências e custos associados
+- Facilitar as transferências e o processamento de informação para os usuários.
+
+---
+
+## BENEFÍCIOS DO SCM
+
+quando a gestão da cadeia de suprimentos não funciona adequadamente ocorrem ineficiências na cadeia de suprimentos como:
+
+- falta de peças,
+
+- fábrica parada,
+
+- estoques excessivos,
+
+- custos altos de transporte.
+  
+→ Isso pode desperdiçar até 25% dos custos operacionais.
+
+**Principais benefícios de um SI-SCM:**
+
+1. Decidir o que e quando produzir/armazenar/mover.
+
+2. Transmitir ordens rapidamente.
+
+3. Acompanhar pedidos e estoques.
+
+4. Reduzir custos de transporte e estocagem.
+
+5. Rastrear remessas.
+
+6. Planejar produção conforme demanda real.
+
+7. Comunicar mudanças (ex.: design de produto).
+
+8. Apoiar gestores na tomada de decisão.
+
+---
+
+## OS PROBLEMAS DE IMPLEMENTAÇÃO DE UM SCM
+
+1. Atritos/tensões entre parceiros da cadeia.
+
+2. Ineficiência → mau atendimento ao cliente.
+
+3. Entregas atrasadas ou em lugar errado.
+
+4. Produtos de baixa qualidade.
+
+5. Custos de estoque altos e perda de receita.
+
+- **Fontes dos problemas** (Rainer & Cegielski):
+
+-> Incertezas → exemplo: prever a demanda.
+
+-> Falta de coordenação → entre atividades internas e parceiros externos.
 
