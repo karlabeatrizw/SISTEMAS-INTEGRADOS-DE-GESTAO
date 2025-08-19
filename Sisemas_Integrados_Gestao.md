@@ -752,4 +752,23 @@ O Sistema ERP pode tornar mais eficiente a gestão dos processos organizacionais
 | Tomadores de decisão empoderados                         | 15.79        |
 | Análise e conversão de dados                             | 15.79        |
 
+---
 
+# SUPPLAY CHAIN MANAGMENT (SCM)
+
+---
+
+## INTRODUÇÃO
+
+O comércio internacional ficou mais complexo e com maior volume de mercadorias, o que pressiona a gestão da cadeia de suprimentos.
+Com a ajuda das Tecnologias de Informação e Comunicação (TIC), as cadeias de valor se espalharam globalmente, exigindo das empresas mais eficiência e alinhamento estratégico.
+
+Por isso, o uso dos Sistemas de Gestão da Cadeia de Suprimentos (SCM) cresceu, pois eles aumentam a assertividade e a competitividade das organizações.
+
+---
+
+## SISTEMA DE GESTÃO DA CADEIA DE SUPRIMENTOS
+
+A cadeia de suprimentos se refere a todo caminho que o produto faz (fornecedor -> fábrica -> transporte -> loja -> cliente), o SCM tem o papel de integrar todas essas etapas para que tudo seja mais eficiente.
+
+O SCM conecta todas as áreas, fornecendo dados em tempo real, com objetivo de mostrar onde cada lote de determinado produto esta, quando haverá maior demanda, evitando, assim, o disperdício
