@@ -887,6 +887,61 @@ Ele organiza essa visão em quatro perspectivas integradas: financeira, clientes
 
 ### PESPECTIVA DOS CLIENTES
 
+Na perspectiva dos clientes do Balanced Scorecard, os gestores devem transformar a missão em metas específicas que reflitam o que realmente importa para o cliente.
+Essas preocupações se agrupam em quatro categorias principais:
+
+Tempo (ex.: rapidez no atendimento as necessidades dos clientes, lead time);
+
+Qualidade (ex.: ausência de defeitos, entrega no prazo);
+
+Desempenho (eficácia do produto/serviço);
+
+Serviço e custo (valor entregue ao cliente).
+
+Assim, o BSC ajuda a alinhar metas de tempo, qualidade, desempenho e serviço com medidas claras para atender às expectativas dos clientes.
+
+---
+
+### PESPECTIVA FINANCEIRA
+
+Na perspectiva financeira do BSC, os indicadores mostram se a estratégia da empresa gera lucratividade, crescimento e valor ao acionista.
+
+Porém, Kaplan e Norton (1992, 2000) destacam que as medidas financeiras tradicionais têm limitações:
+
+São voltadas para o passado, não para o futuro;
+
+Não captam bem fatores de criação de valor (como inovação, qualidade ou motivação dos funcionários);
+
+O sucesso financeiro deve ser visto como resultado de boas ações operacionais, e não apenas como meta isolada.
 
 
+---
 
+### PESPECTIVAS DOS PROCESSOS
+
+O bom desempenho com clientes só acontece se a empresa for boa por dentro.
+
+Os gestores devem focar nos processos críticos (tempo de ciclo, qualidade, produtividade, habilidades dos funcionários).
+
+A empresa precisa definir em quais processos e competências será excelente e criar medidas claras para acompanhar isso.
+
+---
+
+### PESPECTIVA DE INOVAÇÃO/CRESCIMENTO E APRENDIZADO
+
+O mundo muda rápido: não basta ter bons processos hoje, é preciso melhorar sempre e inovar.
+
+Essa perspectiva mede a capacidade da empresa de aprender, inovar e crescer.
+
+- O valor da empresa está ligado a:
+
+     - lançar novos produtos,
+
+     - criar mais valor para os clientes,
+  
+
+     - aumentar eficiência,
+
+     - entrar em novos mercados.
+
+Kaplan e Norton depois trocaram o nome de inovação para crescimento (2000).
