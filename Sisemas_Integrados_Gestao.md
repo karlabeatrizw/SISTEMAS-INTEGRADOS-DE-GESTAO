@@ -1002,3 +1002,54 @@ O Mapa Estratégico, proposto por Kaplan e Norton, é uma ferramenta que conecta
 - Converte **iniciativas e ativos intangíveis** (cultura, conhecimento, pessoas) em **resultados tangíveis**.
 - Mostra claramente os links de causa e efeito que impulsionam o desempenho organizacional.
 
+---
+
+### Benefícios do Balanced Scorecard (BSC)
+
+O BSC demonstrou sua importância especialmente durante a pandemia da COVID-19. Pesquisas mostraram que mais de 50% das empresas revisaram seus BSCs e quase 80% relataram que a ferramenta era tão ou mais útil do que antes da crise.
+
+#### Principais Benefícios (Lucianetti, 2010)
+- Traduzir a estratégia em metas operacionais.  
+- Melhorar o conhecimento dos funcionários sobre como são avaliados.  
+- Conectar objetivos de curto e longo prazo.  
+- Vincular medidas de desempenho à estratégia corporativa.  
+- Adotar novas métricas de desempenho.  
+- Melhorar a comunicação interna.  
+- Alinhar a organização com a estratégia.  
+- Explicar relações de causa e efeito.  
+- Ampliar a participação da alta direção.  
+- Construir consenso sobre a visão e a estratégia.  
+- Motivar as pessoas ao compreenderem seu papel.  
+- Focar tempo e esforço em questões estratégicas.  
+- Tornar a estratégia parte do trabalho diário.  
+
+---
+
+### Implantação do BSC
+
+Kaplan e Norton (1992) destacaram quatro processos essenciais:
+
+#### Processos-Chave
+- Traduzir a visão desejada em metas claras.  
+- Desdobrar a estratégia organizacional para todos os funcionários.  
+- Comunicar os objetivos a todos os colaboradores.  
+- Vincular tarefas individuais às metas da empresa.  
+- Planejar a implementação e definir objetivos claros.  
+- Dar feedback contínuo aos envolvidos.  
+
+---
+
+### Problemas na Implantação do BSC
+
+Segundo Atkinson (2006), os principais desafios são:
+
+#### Limitações
+- Recursos insuficientes.  
+- Visões estratégicas pouco claras.  
+- Limitações gerenciais e humanas.  
+
+#### Fatores Organizacionais
+- Falta de comprometimento da alta administração.  
+- Lideranças ausentes ou sem preparo adequado.  
+- Excesso ou falta de indicadores confiáveis.  
+- Deficiências no treinamento de colaboradores.  
