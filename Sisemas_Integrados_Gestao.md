@@ -857,3 +857,36 @@ quando a gestão da cadeia de suprimentos não funciona adequadamente ocorrem in
 
 -> Falta de coordenação → entre atividades internas e parceiros externos.
 
+---
+
+# BALANCED SCORE CARD - BSC
+
+---
+
+## CONCEITO BASE DOS INDICADORES DE DESEMPENHO (BSC)
+
+O BSD é uma metodologia de gestão estratégica organizacional, no qual são estabelecidas estratégias para efetuar o planejamento, considerando a organização como um todo.
+
+Ele amplia a visão de desempenho ao incluir não só indicadores financeiros, mas também ativos intangíveis (como clientes, processos e aprendizado).
+
+Criado por Kaplan e Norton (1992, 2000), organiza-se em quatro perspectivas: financeira, clientes, processos internos e aprendizado/crescimento.
+
+A lógica central é de causa e efeito: investir em aprendizado e processos → melhora o atendimento a clientes → gera melhores resultados financeiros.
+
+---
+
+## OS INDICADORES BALANCEADOS DO DESEMPENHO
+
+Kaplan e Norton (1992) destacam que “o que você mede é o que você obtém”, criticando o uso exclusivo de métricas financeiras tradicionais (como ROI e L/P), pois elas não captam bem a inovação e a melhoria contínua.
+Eles defendem que as medidas de desempenho devem ser equilibradas, combinando tanto indicadores financeiros quanto operacionais.
+
+O BSC surge como uma forma de alinhar estratégia e ação, transformando os objetivos estratégicos em metas mensuráveis e desdobradas em atividades práticas para toda a organização.
+Ele organiza essa visão em quatro perspectivas integradas: financeira, clientes, processos internos e aprendizado/inovação (crescimento).
+
+----
+
+### PESPECTIVA DOS CLIENTES
+
+
+
+
