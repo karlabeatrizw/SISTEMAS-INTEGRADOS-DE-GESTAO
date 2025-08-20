@@ -945,3 +945,32 @@ Essa perspectiva mede a capacidade da empresa de aprender, inovar e crescer.
      - entrar em novos mercados.
 
 Kaplan e Norton depois trocaram o nome de inovação para crescimento (2000).
+
+---
+
+### O MODELO BSC
+
+O BSC (Balanced Scorecard) organiza o desempenho da empresa em 4 perspectivas fundamentais, cada uma respondendo a uma pergunta-chave:
+
+- Financeira – Como olhamos para os acionistas?
+
+- Cliente – Como os clientes nos veem?
+
+- Processos Internos – Em que devemos nos destacar?
+
+- Inovação e Aprendizagem – Podemos continuar a melhorar e criar valor?
+
+Objetivo principal:
+Traduzir a estratégia da empresa em metas e indicadores práticos, evitando excesso de dados e mantendo o foco no que é crítico.
+
+- Conexão entre perspectivas:
+
+  - Aprendizagem fortalece os processos internos
+
+  - que melhoram a percepção do cliente
+
+   - o que resulta em melhores resultados financeiros.
+
+Benefício:
+Ajuda gestores a enxergar se o progresso em uma área não está prejudicando outra e a alinhar todas as áreas em torno da estratégia.
+
