@@ -948,7 +948,7 @@ Kaplan e Norton depois trocaram o nome de inovação para crescimento (2000).
 
 ---
 
-### O MODELO BSC
+## O MODELO BSC
 
 O BSC (Balanced Scorecard) organiza o desempenho da empresa em 4 perspectivas fundamentais, cada uma respondendo a uma pergunta-chave:
 
@@ -973,4 +973,32 @@ Traduzir a estratégia da empresa em metas e indicadores práticos, evitando exc
 
 Benefício:
 Ajuda gestores a enxergar se o progresso em uma área não está prejudicando outra e a alinhar todas as áreas em torno da estratégia.
+
+---
+
+### MAPA ESTRATÉGICO
+
+O Mapa Estratégico, proposto por Kaplan e Norton, é uma ferramenta que conecta a **estratégia** da organização ao **Balanced Scorecard (BSC)**, mostrando visualmente como objetivos e recursos se relacionam para gerar resultados.
+
+#### Problema Identificado
+- Muitas estratégias não são implementadas de fato.
+- Isso compromete o desempenho diante da concorrência.
+
+#### Solução
+- Uso do **BSC + Mapa Estratégico** para comunicar e alinhar a estratégia em todos os níveis da organização.
+
+#### Função do Mapa Estratégico
+- Representação visual dos **objetivos críticos** e suas **relações de causa e efeito**.
+- Clareza para funcionários sobre como seus trabalhos se conectam aos objetivos gerais.
+- Coordenação e colaboração em direção às metas da empresa.
+
+#### Principais Elementos
+- **Crescimento da receita** e definição de **mercados-alvo**.
+- **Propostas de valor** que atraem e fidelizam clientes.
+- Papel da **inovação** e da **excelência em produtos, serviços e processos**.
+- **Investimentos em pessoas e sistemas** para sustentar o crescimento.
+
+#### Benefício
+- Converte **iniciativas e ativos intangíveis** (cultura, conhecimento, pessoas) em **resultados tangíveis**.
+- Mostra claramente os links de causa e efeito que impulsionam o desempenho organizacional.
 
