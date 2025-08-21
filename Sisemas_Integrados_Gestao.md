@@ -1077,7 +1077,110 @@ O ERM é visto mais como uma mudança cultural do que tecnológica. O Software d
 # GESTÃO DE RELACIONAMENTO EMPRESARIAL - ERM
 
 A arquitetura de distribuição dos SI's do tipo ERM aproveita dados de diversos sistemas ja existentes, como os que foram listaos anteriormente, para gerar valor, ou seja, o segredo está em unir informações que antes estavam fragmentadas. Ademais, o ERM tem foco total na mudança organizacional (people first) do que apenas tecnologia, que é usada apenas como complemento da cultura, transparência e integração.
-O ERM é dividido em dois blocos *Front-office* e o *Back-office*
+O ERM é dividido em dois blocos:
+
+- *Front-office*: lida com stakeholders externos (clientes, fornecedores, parceiros);
+
+- *Back-office*: lida com processos internos (finanças, operações, RH).
+
+Insight corporativo: quanto melhor a empresa integra esses dois mundos, mais competitiva ela fica.
+
+Com o aumento da pressão competitiva nos mercados, os gestores precisam ter acesso às informações em tempo real, e de modo consolidado. Assim sendo, as empresas estão buscando uma forma de integrar os seus Sistemas de Informação, que é o conceito do EAI (Enterprise Application Integration) ou integração das aplicações corporativas.
+
+---
+
+## SISTEMAS DE LINHA DE FRENTE - *FRONT-OFFICE*
+
+Entre os SIs que podem ser citados como sendo associados ao front-office estão o CRM, B2C (business to customer ou empresa para consumidor), SCM, B2B (business to business ou empresa para empresa), PRM, ERP, C2B (costumer to business ou consumidor para empresa), G2C (government to customer ou governo para consumidor), G2G (government to government ou governo para governo), G2B (government to business ou governo para empresa).
+
+---
+
+## SISTEMAS DE RETAGUARDA - *BACK-OFFICE*
+
+Entre os SIs que podem ser citados como sendo associados ao back-office estão o KSM (knowledge system management ou sistema de gestão do conhecimento), o CI (competitive intelligence – inteligência competitiva), a metodologia BSC (Indicadores balanceados de desempenho), o BI (business intelligence ou inteligência de negócios) e também o CRM. E retratando o histórico de adoção e desenvolvimento de Sistemas de Informação, aparecem os Sistemas Legados, que são sistemas que podem disponibilizar serviços de negócios essenciais e envolvem processos de negócios, sistemas aplicativos e de apoio e, eventualmente, tipos de hardwares. Normalmente os sistemas legados são encontrados em grandes empresas, que possuem um longo tempo de operação. 
+
+
+---
+
+# INTEGRAÇÃO DOS APLICATIVOS CORPORATIVOS - EAI 
+
+#### Conceito Central
+EAI é a estratégia de **integração de sistemas corporativos** que foram desenvolvidos de forma independente, com tecnologias diferentes, mas que precisam trocar dados e processos de negócio de maneira eficiente.  
+
+#### Contexto Histórico
+- Antes do EAI, os Sistemas de Informação eram isolados por departamento, gerando **silos** e **altos custos** de manutenção e integração.  
+- Na década de 1990, surge o EAI como solução para **reduzir custos e evitar programação excessiva**, aproveitando aplicações já existentes.  
+
+#### Objetivo Estratégico
+- **Modernizar e consolidar** os aplicativos legados.  
+- **Integrar** dados e processos em tempo real.  
+- **Coordenar recursos** da empresa de forma flexível e produtiva.  
+- Dar suporte à evolução para novas tecnologias (Internet, e-commerce, extranet).  
+
+#### Principais Aplicações Corporativas Associadas
+1. **ERP** – Planejamento de Recursos Empresariais  
+2. **SCM** – Gestão da Cadeia de Suprimentos  
+3. **CRM** – Gestão do Relacionamento com o Cliente  
+4. **Knowledge Management** – Gestão do Conhecimento  
+
+#### Tecnologia-Chave
+- **Middleware**: camada intermediária que atua como ponte entre diferentes sistemas.  
+  - Evita integrações ponto-a-ponto.  
+  - Permite comunicação livre e padronizada entre aplicações.  
+  - Elimina necessidade de programação extensiva.  
+
+#### Expansão do Conceito (Gartner, 2022)
+Hoje o termo abrange não apenas ERP, CRM e SCM, mas também:
+- Software de colaboração e comunicação.  
+- Gestão de conteúdo digital.  
+- Gestão de projetos e portfólio.  
+- Suítes de escritório.  
+
+#### Insight Corporativo
+O valor do EAI não está apenas na tecnologia, mas em **dar visão unificada ao gestor**, aproveitando o que já existe enquanto prepara a empresa para inovação futura.
+
+---
+
+## Abordagens e Benefícios do EAI
+
+#### Abordagem de Implementação
+- EAI permite uma **integração orientada para o negócio**, diferente do ERP que é orientado à tecnologia.  
+- Fornece **framework para vincular aplicações** no nível de objeto de negócios, permitindo processos descentralizados.  
+- **Quatro níveis de implementação** (Lee, Siau & Hong, 2003):  
+  1. Expansão da integração de dados tradicional dentro de um framework.  
+  2. Vinculação de processos de negócios e dados na camada de interface do aplicativo.  
+  3. Compartilhamento da lógica de negócios em toda a empresa em nível de componente.  
+  4. Aproveitamento da interface do usuário como base para integração.  
+
+---
+
+## Limitações
+- Investimento extenso e longo prazo em design.  
+- Exige **forte comunicação e coordenação** entre TI e áreas de negócios.  
+- Implementação inicial mais lenta comparada a ERP.  
+- Necessidade de **mapear e combinar processos** de sistemas separados.  
+
+---
+
+## Benefícios
+- Redução de tempo de ciclo e contenção de custos.  
+- Maior **flexibilidade e agilidade** na integração corporativa.  
+- Resposta rápida a novas oportunidades de negócios.  
+- Pode reduzir custos de integração de 10% a 60% comparado a ERP.  
+
+#### Extensão e Aplicações
+- Suporta **ERP, e-commerce, m-commerce e interações B2B**.  
+- Integra processos de negócios entre empresas (procurement, CRM, SCM, processamento de ordens).  
+- Utiliza tecnologias web modernas: Java, HTML, XML, entre outras.  
+
+#### Metodologia
+- **Pull-oriented**: usa aplicativos e processos existentes para mapear e integrar funcionalidades de forma aceitável para a organização.  
+- **Top-down**: integração guiada por mapeamento estratégico de processos de negócios.
+
+
+
+
+
 
 
 
