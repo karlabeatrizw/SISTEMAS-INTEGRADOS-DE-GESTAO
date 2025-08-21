@@ -1052,4 +1052,33 @@ Segundo Atkinson (2006), os principais desafios são:
 - Falta de comprometimento da alta administração.  
 - Lideranças ausentes ou sem preparo adequado.  
 - Excesso ou falta de indicadores confiáveis.  
-- Deficiências no treinamento de colaboradores.  
+- Deficiências no treinamento de colaboradores.
+
+---
+
+# ENTERPRISE RELATIONSHIP MENAGEMENT (ERM)
+
+O ERM é geralmente vendido como uma solução de software. Diferente do CRM (Costumer Relationship Menagement) que foca no relacionamento da empresa com o cliente, o ERM envolve análise de dados para entender melhor os relacionamentos internos e externos da empresa (clientes + fornecedores + parceiros + colaboradores + sociedade). 
+
+O ERM é visto mais como uma mudança cultural do que tecnológica. O Software de relacionamento, estratégias e soluções de negócios incluem: CRM (gestão de relacionamento com o cliente); PRM (gestão de relacionamento com parceiros); ERP (planejamento de recursos empresariais); HRM (gestão de recursos humanos); e SCM (gestão da cadeia de suprimentos) (TECHOPEDIA, 2022).
+
+- CRM = Cliente
+
+- PRM = Parceiros
+
+- ERP = Processos da empresa inteira
+
+- HRM = Funcionários
+
+- SCM = Fornecedores + logística até o cliente
+
+---
+
+# GESTÃO DE RELACIONAMENTO EMPRESARIAL - ERM
+
+A arquitetura de distribuição dos SI's do tipo ERM aproveita dados de diversos sistemas ja existentes, como os que foram listaos anteriormente, para gerar valor, ou seja, o segredo está em unir informações que antes estavam fragmentadas. Ademais, o ERM tem foco total na mudança organizacional (people first) do que apenas tecnologia, que é usada apenas como complemento da cultura, transparência e integração.
+O ERM é dividido em dois blocos *Front-office* e o *Back-office*
+
+
+
+
